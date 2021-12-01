@@ -2,7 +2,7 @@
 
 Meu nome é Paulo, sou um estudante de Análise e Desenvolvimentos de Sistemas e possuo conhecimento técnico em diversas tecnologias do mercado. Possuo experiência acadêmica com NodeJS, Java, C#, ReactJS e NextJS.
 
-- 🔭 No momento estou no 4º Semestre de Análise e Desenvolvimento na [Universidade São Judas Tadeu](https://www.usjt.br). Além disso, já possuo duas formações: ### Técnico em Informática na [Etec Albert Einstein](https://etecalberteinstein.com.br) e ### Programador de Sistemas no [GEEaD](https://portalgeead.cps.sp.gov.br/).
+- 🔭 No momento estou no 4º Semestre de Análise e Desenvolvimento na [Universidade São Judas Tadeu](https://www.usjt.br). Além disso, já possuo duas formações: Técnico em Informática na [Etec Albert Einstein](https://etecalberteinstein.com.br) e Programador de Sistemas no [GEEaD](https://portalgeead.cps.sp.gov.br/).
 
 - Meu LinkedIn: [PAULO LB](https://www.linkedin.com/in/paulo-leandro-bertotti-0346a0221/)
 
