@@ -12,7 +12,7 @@ Meu nome é Paulo, sou um estudante de Análise e Desenvolvimentos de Sistemas e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netotv&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://github.com/NetoTV/">
-    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="100">
+    <img src="https://github.com/NetoTV/NetoTV/raw/master/github/linkedin.png" alt="LinkedIn" height="100">
   </a>
 </div>
 </div>
