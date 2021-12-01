@@ -1,16 +1,18 @@
-### Hi there 👋
+### Seja Bem Vindo! 👋
 
-<!--
-**NetoTV/NetoTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Paulo, sou um estudante de Análise e Desenvolvimentos de Sistemas e possuo conhecimento técnico em diversas tecnologias do mercado. Possuo experiência acadêmica com NodeJS, Java, C#, ReactJS e NextJS.
 
-Here are some ideas to get you started:
+- 🔭 No momento estou no 4º Semestre de Análise e Desenvolvimento na [Universidade São Judas Tadeu](https://www.usjt.br). Além disso, já possuo duas formações: Técnico em Informática na [Etec Albert Einstein](https://etecalberteinstein.com.br) e Programador de Sistemas no [GEEaD](https://portalgeead.cps.sp.gov.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Meu LinkdIn: [PAULO LB](https://www.linkedin.com/in/paulo-leandro-bertotti-0346a0221/)
+
+<div align="center" >
+
+[![PAULO LB's github stats](https://github-readme-stats.vercel.app/api?username=netotv&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netotv&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+  <a href="https://github.com/NetoTV/">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="100">
+  </a>
+</div>
+</div>
