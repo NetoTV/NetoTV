@@ -2,7 +2,7 @@
   <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/paulo-leandro-bertotti-0346a0221/"><i>Paulo Leandro Bertotti</i></a> 😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimentos de Sistemas na <a href="https://www.usjt.br"><i>Universidade São Judas Tadeu</i></a> Além disso, também possuo duas formações: Técnico em Informática na <a href="https://etecalberteinstein.com.br"> <i>Etec Albert Einstein</i></a> e <a href="https://portalgeead.cps.sp.gov.br"> <i>Programador de Sistemas</i></a> no GEEaD. 
     <br>
-  <p align="center">Possuo experiência acadêmica com NodeJS, Java, C#, Angular 9, ReactJS e NextJS. 😉️</h2>
+  <p align="center">Possuo experiência acadêmica com NodeJS, Java, C#, Angular 9, ReactJS, NextJS e Python. 😉️</h2>
 </div>
 <div align="center">
   <a href="https://github.com/netotv">
